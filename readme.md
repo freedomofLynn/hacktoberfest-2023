@@ -1,5 +1,5 @@
 # HacktoberFest 2023 FOR YOUR `OPEN FIRST` Pull Request
-![HacktoberFest 2023](https://github.com/Shiirookami/Hacktoberfest2023/raw/main/.github/hacktoberfest2023.png)
+![HacktoberFest 2023](https://github.com/Shiirookami/hacktoberfest/blob/main/.github/hacktoberfest2023.png)
 
 
 ## This Project For Your First Pull Request
@@ -40,6 +40,7 @@ country: YOUR COUNTRY
 - Create/Upload your code in folder following the convention `projects`, Example
 ```
 projects/YOUR-PROJECT-NAME
+
  <!-- or static web not problem -->
 projects/YOUR-PROJECT-NAME/index.html
 ```
